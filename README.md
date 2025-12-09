@@ -1,6 +1,6 @@
 # TriSamples - 100 Kick Drums Vol 1
 
-![TriSamples - 100 Kick Drums Vol 1](TriSamples - 100 Kick Drums Vol 1 Artwork.jpg)
+![TriSamples - 100 Kick Drums Vol 1](TriSamples%20-%20100%20Kick%20Drums%20Vol%201%20Artwork.jpg)
 
 This is a free sample pack downloaded from TRISAMPLES.COM
 
